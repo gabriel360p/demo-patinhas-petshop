@@ -12,9 +12,9 @@
 
 Uma aplicação web desenvolvida para apresentar serviços de cuidados
 
-animais, fortalecer a presença digital do petshop e proporcionar uma
+para animais, fortalecer a presença digital do petshop e proporcionar
 
-experiência amigável, moderna e responsiva para seus clientes.
+uma experiência amigável, moderna e responsiva para seus clientes.
 
 
 
@@ -40,15 +40,15 @@ https://demo-patinhas-petshop.vercel.app/
 
 
 
-O **Demo Patinhas Petshop** é uma landing page institucional desenvolvida para representar um petshop moderno, apresentando seus serviços, diferenciais e informações importantes para tutores que buscam cuidados de qualidade para seus animais.
+O **Demo Patinhas Petshop** é uma landing page institucional desenvolvida para representar um petshop moderno, apresentando seus serviços, diferenciais e informações importantes para tutores que buscam cuidados para seus animais.
 
 
 
-O projeto foi criado simulando uma solução digital para um negócio real do segmento pet, com foco em transmitir confiança, carinho e profissionalismo através de uma interface moderna e intuitiva.
+O projeto foi criado simulando uma solução digital para um negócio real do segmento pet, com foco em transmitir confiança, carinho e profissionalismo através de uma interface visual agradável.
 
 
 
-A aplicação foi desenvolvida utilizando boas práticas de Front-end, organização de componentes e responsividade, garantindo uma experiência agradável em diferentes dispositivos.
+A aplicação foi desenvolvida utilizando tecnologias fundamentais da Web, aplicando boas práticas de estruturação HTML, estilização CSS e interações utilizando JavaScript.
 
 
 
@@ -62,13 +62,13 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - Criar uma presença digital profissional para um petshop;
 
-- Desenvolver uma interface acolhedora e moderna;
+- Desenvolver uma interface amigável e intuitiva;
 
 - Apresentar serviços e diferenciais da empresa;
 
-- Facilitar o acesso às informações para novos clientes;
+- Aplicar conceitos de UI/UX em uma solução comercial;
 
-- Aplicar conceitos de UI/UX em uma solução comercial.
+- Criar uma página responsiva próxima às necessidades reais do mercado.
 
 
 
@@ -86,15 +86,15 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - ✅ Seção de diferenciais do petshop;
 
-- ✅ Informações sobre atendimento;
-
 - ✅ Área de contato;
+
+- ✅ Apresentação das informações do negócio;
+
+- ✅ Navegação entre seções;
 
 - ✅ Layout responsivo para dispositivos móveis, tablets e desktops;
 
-- ✅ Interface moderna seguindo princípios de UI/UX;
-
-- ✅ Navegação otimizada entre seções.
+- ✅ Interações utilizando JavaScript.
 
 
 
@@ -110,7 +110,7 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
 
 
 
@@ -122,13 +122,11 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-- **React** — Construção da interface utilizando componentes reutilizáveis;
+- **HTML5** — Estruturação semântica da página e organização dos conteúdos;
 
-- **TypeScript** — Utilizado para maior segurança e organização do código;
+- **CSS3** — Desenvolvimento do layout, identidade visual e responsividade;
 
-- **Vite** — Ferramenta moderna para desenvolvimento e otimização do projeto;
-
-- **Tailwind CSS** — Criação da interface responsiva e estilização eficiente;
+- **JavaScript** — Implementação de interações e comportamentos dinâmicos;
 
 - **Git/GitHub** — Controle de versão e gerenciamento do projeto.
 
@@ -142,7 +140,27 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-A aplicação foi estruturada utilizando componentes independentes, permitindo melhor organização do código, reutilização de elementos e facilidade para manutenção e evolução futura.
+A aplicação foi organizada utilizando uma estrutura simples e direta, separando os arquivos principais da página entre HTML, CSS e JavaScript.
+
+
+
+Exemplo:
+
+
+
+```
+projeto
+
+├── index.html
+
+├── style.css
+
+└── script.js
+```
+
+
+
+Essa organização facilita a manutenção do código, entendimento da estrutura e futuras personalizações do template.
 
 
 
@@ -162,7 +180,7 @@ Durante o desenvolvimento, alguns desafios importantes foram trabalhados:
 
 
 
-Criar uma experiência consistente em diferentes tamanhos de tela, garantindo que imagens, textos e elementos visuais permanecessem organizados e fáceis de acessar.
+Criar uma interface adaptável para diferentes tamanhos de tela, garantindo uma boa experiência de navegação para usuários em dispositivos móveis e desktops.
 
 
 
@@ -170,17 +188,17 @@ Foram considerados:
 
 
 
-- adaptação dos conteúdos;
+- organização dos conteúdos;
 
-- organização das seções;
+- adaptação dos elementos visuais;
 
-- proporção dos elementos visuais;
+- espaçamento entre seções;
 
-- experiência em dispositivos móveis.
+- facilidade de leitura.
 
 
 
-### 🎨 Identidade visual pet
+### 🎨 Construção da identidade visual pet
 
 
 
@@ -188,23 +206,23 @@ Desenvolver uma interface alinhada ao segmento de cuidados animais, transmitindo
 
 
 
-- cuidado;
-
 - confiança;
+
+- carinho;
 
 - proximidade;
 
-- carinho;
+- cuidado;
 
 - profissionalismo.
 
 
 
-### 🧱 Componentização
+### ⚡ Interações com JavaScript
 
 
 
-Organizar a aplicação utilizando componentes reutilizáveis, evitando repetição de código e facilitando futuras alterações no projeto.
+Adicionar comportamentos dinâmicos utilizando JavaScript puro, melhorando a navegação e tornando a experiência do usuário mais interativa.
 
 
 
@@ -222,15 +240,15 @@ Com esse projeto foi possível aprimorar:
 
 - Desenvolvimento de landing pages comerciais;
 
-- Criação de interfaces para diferentes segmentos;
+- Estruturação semântica utilizando HTML5;
 
-- Organização de componentes React;
+- Criação de layouts responsivos com CSS3;
 
-- Construção de layouts responsivos;
+- Manipulação do DOM com JavaScript;
 
-- Desenvolvimento de soluções digitais para empresas;
+- Organização de projetos Front-end;
 
-- Criação de experiências focadas no usuário.
+- Desenvolvimento de interfaces para diferentes segmentos.
 
 
 
@@ -246,17 +264,17 @@ Algumas melhorias que podem ser implementadas:
 
 
 
-- [ ] Sistema de agendamento de serviços;
-
 - [ ] Integração com WhatsApp;
 
-- [ ] Formulário para contato de clientes;
+- [ ] Formulário de agendamento;
 
-- [ ] Área de apresentação dos profissionais;
+- [ ] Área de depoimentos de clientes;
+
+- [ ] Galeria de serviços realizados;
 
 - [ ] Integração com redes sociais;
 
-- [ ] Otimizações avançadas de SEO.
+- [ ] Melhorias avançadas de SEO.
 
 
 
@@ -288,23 +306,17 @@ cd demo-patinhas-petshop
 
 
 
-Execute os comandos via terminal dentro da pasta do projeto:
+Abra o arquivo:
 
 
 
-```bash
-npm install
-
-npm run dev
+```
+index.html
 ```
 
 
 
-Acesse no navegador:
-
-
-
-http://localhost:5173
+Ou utilize uma extensão como **Live Server** para executar o projeto localmente.
 
 
 
@@ -312,7 +324,7 @@ http://localhost:5173
 
 
 
-**👨‍💻 Autor**
+## 👨‍💻 Autor
 
 
 
